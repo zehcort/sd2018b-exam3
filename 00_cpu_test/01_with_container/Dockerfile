@@ -1,6 +1,6 @@
 FROM python:3.7.1-alpine3.8
 
-LABEL author="zehcort"
+LABEL author="abc1196"
 
 ADD greedy.py /tmp
 
